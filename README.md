@@ -1,2 +1,2 @@
 # Thesis
-Code for Thesis included
+Code for the Thesis included
